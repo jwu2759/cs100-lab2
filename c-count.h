@@ -1,5 +1,4 @@
 #include <iostream>
-
 // count function should go here
 
 unsigned int count(const std::string& str){
@@ -17,3 +16,4 @@ unsigned int count(const std::string& str){
 	//updated c-count header file
 	return counter;
 }
+
