@@ -14,6 +14,6 @@ unsigned int count(const std::string& str){
 			on_space = false;
 		}
 	}
-	
+	//updated c-count header file
 	return counter;
 }
